@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    padding-bottom: 5px;
+}
+
+.cover{
+    width: 100%;
+    border-radius: 15px;
+}
